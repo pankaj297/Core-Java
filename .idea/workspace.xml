@@ -2,11 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb14270-3431-402e-a0f2-eaee5661a6ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForEach/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/doWhile/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlStatements/LoopingStatements/doWhile/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputAccept/Demo9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +70,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ClassAndObject/Demo1.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ClassAndObject/Demo2.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ClassAndObject/Demo3.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ControlStatements/DecisionMaking/IfElse/Demo10.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ControlStatements/DecisionMaking/IfElse/Demo2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ControlStatements/DecisionMaking/IfElse/Demo8.java" root0="SKIP_INSPECTION" />
@@ -25,6 +80,34 @@
     <setting file="file://$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo3.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ControlStatements/DecisionMaking/Switch/Demo5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo7.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/JumpStatements/Demo8.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo11.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo14.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo16.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo19.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo21.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo22.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo7.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/ForLoops/Demo9.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/WhileLoop/Demo4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatements/LoopingStatements/doWhile/Demo1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/InputAccept/Demo10.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/InputAccept/Demo11.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/InputAccept/Demo8.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/InputAccept/Demo9.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Operators/BitWiseOperators/BitWiseOperator1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Operators/ConditionalOperators/ConditionalOperators1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Operators/ConditionalOperators/ConditionalOperators2.java" root0="SKIP_INSPECTION" />
